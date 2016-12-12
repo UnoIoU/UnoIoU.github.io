@@ -2,7 +2,7 @@ var S = {
                 init: function () {
                     S.Drawing.init('.canvas');
                     document.body.classList.add('body--ready');
-                    S.UI.simulate("星星说有月亮");					
+                    S.UI.simulate("鑫鑫生日快乐~");					
                     S.Drawing.loop(function () {
                         S.Shape.render();
 						
