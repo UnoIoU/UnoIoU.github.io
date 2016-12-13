@@ -2,7 +2,7 @@ var S = {
                 init: function () {
                     S.Drawing.init('.canvas');
                     document.body.classList.add('body--ready');
-                    S.UI.simulate("Hey|UnoIoU|LaTina_817");					
+                    S.UI.simulate("Hey|UnoIoU|LaTina_817|#countdown 3");					
                     S.Drawing.loop(function () {
                         S.Shape.render();
 						
