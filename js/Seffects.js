@@ -2,7 +2,7 @@ var S = {
                 init: function () {
                     S.Drawing.init('.canvas');
                     document.body.classList.add('body--ready');
-                    S.UI.simulate("UnoIoU|LaTina_817");					
+                    S.UI.simulate("Naive|constraint|but|UnoIoU|And|I Will|Work Hard|LaTina");					
                     S.Drawing.loop(function () {
                         S.Shape.render();
 						
