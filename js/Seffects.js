@@ -2,7 +2,7 @@ var S = {
                 init: function () {
                     S.Drawing.init('.canvas');
                     document.body.classList.add('body--ready');
-                    S.UI.simulate("Constraint|Work Hard|Every Day|LaTina");					
+                    S.UI.simulate("四|级|加|油|！|(ง •_•)ง|四级加油！|CET4/6");					
                     S.Drawing.loop(function () {
                         S.Shape.render();
 						
