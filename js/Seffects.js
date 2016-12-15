@@ -2,7 +2,7 @@ var S = {
                 init: function () {
                     S.Drawing.init('.canvas');
                     document.body.classList.add('body--ready');
-                    S.UI.simulate("四|级|加|油|！|(ง •_•)ง|四级加油！|CET4/6");					
+                    S.UI.simulate("CET4/6|(ง •_•)ง");					
                     S.Drawing.loop(function () {
                         S.Shape.render();
 						
