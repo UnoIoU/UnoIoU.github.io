@@ -2,7 +2,7 @@ var S = {
                 init: function () {
                     S.Drawing.init('.canvas');
                     document.body.classList.add('body--ready');
-                    S.UI.simulate("师|Microsoft|(ง •_•)ง");					
+                    S.UI.simulate("(づ￣ 3￣)づ");					
                     S.Drawing.loop(function () {
                         S.Shape.render();
 						
