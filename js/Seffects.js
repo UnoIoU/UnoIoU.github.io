@@ -2,7 +2,7 @@ var S = {
                 init: function () {
                     S.Drawing.init('.canvas');
                     document.body.classList.add('body--ready');
-                    S.UI.simulate("(ง •_•)ง|复习！");					
+                    S.UI.simulate("(ง •_•)ง");					
                     S.Drawing.loop(function () {
                         S.Shape.render();
 						
