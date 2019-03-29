@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/act/10day_paper_reading/precache-manifest.f6ae818355897e1cd7b96d9c9adeb369.js"
+  "/act/10day_paper_reading/precache-manifest.a62cdd19b1bc46aa2862cfd228e90764.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "papers"});
